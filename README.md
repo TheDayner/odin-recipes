@@ -1,1 +1,1 @@
-# odin-recipes
+In this practice I will use what I have learned of basic html semantics and construct a framework for a website. 
